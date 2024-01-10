@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 import re
 #openAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 logging.basicConfig(level=logging.INFO)
 
 #database

@@ -29,7 +29,7 @@ db = SQLiteConnector("database\\users.db")
 #key for openaiprompt in the helpers.py
 
 #telegram key
-TOKEN_API = "6868575277:AAEASpqAYf0rIbtDSSNq5JUAJgLYjAba7aU"
+TOKEN_API = ""
 bot = Bot(TOKEN_API)
 
 dp = Dispatcher()
