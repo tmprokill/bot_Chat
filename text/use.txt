@@ -1,0 +1,7 @@
+Hi there! I am very simple to use, because i am user friendly.
+You simly have to start the conversation and after this
+I'll be waiting for your prompt to ask the ChatGPT to answer your
+question. 
+I also support speach recognition, so you can use your voice to 
+make prompts!
+Have fun and good luck!

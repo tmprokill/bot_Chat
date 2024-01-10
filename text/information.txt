@@ -1,0 +1,4 @@
+I am a bot, that allows my users to ask the artificial intelligence 
+to solve their questions via telegram.
+I am new here, so be nice and read my documentation via /use command!
+Good luck using me, have a nice day!

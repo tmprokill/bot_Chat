@@ -1,0 +1,13 @@
+{
+    "en":{
+        "start_chat": "Start the chat",
+        "end_chat": "Finish the chat",
+        "you_are_welcome": "You're welcome to start!",
+        "finish": "Your conversation has been successfully finished",
+        "use": "Hi there! I am very simple to use, because i am user friendly.\nYou simply have to start the conversation and after this\nI'll be waiting for your prompt to ask the ChatGPT to answer your\nquestion.\nI also support speach recognition, so you can use your voice to\nmake prompts!\nHave fun and good luck!",
+        "info": "I am a bot, that allows my users to ask the artificial intelligence\nto solve their questions via telegram.\nI am new here, so be nice and read my documentation via /use command!\nGood luck using me, have a nice day!",
+        "select": "You've selected english language, you can start in english", 
+        "support": "I support only text and voice messages!"
+    }
+    
+}
